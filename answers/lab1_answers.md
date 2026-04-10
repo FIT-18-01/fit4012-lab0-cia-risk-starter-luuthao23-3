@@ -1,11 +1,11 @@
 # Lab 01 Answers
 ## CIA & Risk: Hệ thống lưu điểm
 
-**Họ và tên:** Lưu Phương ThảoThảo
+**Họ và tên:** Lưu Phương Thảo
 
-**MSSV:** 1871020168118710201681
+**MSSV:** 1871020681
 
-**Lớp/Nhóm:** CNTT 18-0101
+**Lớp/Nhóm:** CNTT 18-01
 
 ---
 
