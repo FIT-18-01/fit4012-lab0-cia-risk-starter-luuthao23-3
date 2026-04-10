@@ -2,11 +2,11 @@
 
 Sinh viên tự kiểm trước khi nộp bài.
 
-- [ ] Tôi đã fork repo hoặc accept assignment thành công.
-- [ ] Tôi đã clone repo về máy và mở đúng thư mục bài lab.
-- [ ] Tôi đã điền đầy đủ nội dung trong `answers/lab1_answers.md`.
-- [ ] Tôi đã cập nhật `report-1page.md`.
-- [ ] Tôi đã ghi lại tiến trình làm bài trong `logs/activity_log.md`.
+- [x] Tôi đã fork repo hoặc accept assignment thành công.
+- [x] Tôi đã clone repo về máy và mở đúng thư mục bài lab.
+- [x] Tôi đã điền đầy đủ nội dung trong `answers/lab1_answers.md`.
+- [x] Tôi đã cập nhật `report-1page.md`.
+- [x] Tôi đã ghi lại tiến trình làm bài trong `logs/activity_log.md`.
 - [ ] Tôi đã commit ít nhất 2 lần với nội dung có ý nghĩa.
 - [ ] Tôi đã push repo lên GitHub thành công.
 - [ ] Tôi đã kiểm tra link repo mở được.
