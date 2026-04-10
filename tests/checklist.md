@@ -18,4 +18,4 @@ Sinh viên tự kiểm trước khi nộp bài.
 - [x] Tôi đã ghép đủ 3 sự cố với CIA.
 - [x] Tôi đã phân biệt được threat và vulnerability.
 - [x] Tôi đã nêu được một mitigation cụ thể cho sự cố B.
-- [] Tôi đã viết reflection ngắn gọn, có lập luận.
+- [x] Tôi đã viết reflection ngắn gọn, có lập luận.

@@ -29,5 +29,4 @@
 - Mitigation: Áp dụng phân quyền rõ ràng, ghi log hệ thống và sử dụng xác thực mạnh (2FA)
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
 Qua bài lab này, em đã hiểu rõ hơn về ba yếu tố quan trọng trong an toàn thông tin là Confidentiality, Integrity và Availability. Em cũng học được cách xác định tài sản cần bảo vệ và phân tích một sự cố dựa trên threat, vulnerability và mitigation. Phần khó nhất là phân biệt giữa threat và vulnerability vì hai khái niệm này khá dễ nhầm lẫn. Ngoài ra, em nhận thấy khi phân tích một sự cố cần phải nhìn từ nhiều góc độ khác nhau để đưa ra giải pháp phù hợp. Bài lab giúp em làm quen với quy trình làm việc thực tế và sử dụng GitHub để quản lý bài làm.
